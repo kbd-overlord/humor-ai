@@ -6,6 +6,7 @@ authors = ["Bohdan <brodskyy.b@outlook.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+ipykernel = "^5.5.0"
 
 [tool.poetry.dev-dependencies]
 
