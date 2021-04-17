@@ -17,6 +17,8 @@ beautifulsoup4 = "^4.9.3"
 nltk = "^3.6.1"
 Keras = "^2.4.3"
 tensorflow = "2.4.1"
+spacy = "^3.0.5"
+normalise = "^0.1.8"
 
 [tool.poetry.dev-dependencies]
 
