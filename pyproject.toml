@@ -19,6 +19,7 @@ Keras = "^2.4.3"
 tensorflow = "2.4.1"
 spacy = "^3.0.5"
 normalise = "^0.1.8"
+scikit-learn = "^0.24.1"
 
 [tool.poetry.dev-dependencies]
 
