@@ -25,4 +25,3 @@ model.add(Dense(y.shape[1], activation='softmax'))
 model.summary()
 
 model.compile(loss='categorical_crossentropy', optimizer='adam')
-
